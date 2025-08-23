@@ -17,3 +17,15 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
 * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+
+**25 Juni 2021**<br>
+Menerapkan ilmu yang sudah dipelejari dengan membuat real project
+* Membuat real project
+
+**26 Juni 2021**<br>
+Menganalisa setiap bug atau masalah untuk melatih pemecahan masalah
+* Menganalisa setiap masalah yang ada
+
+**30 Juni 2021**<br>
+Menyelesaikan project dengan baik
+* Menyelesaikan project
