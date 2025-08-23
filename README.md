@@ -21,3 +21,7 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **25 Juni 2021**<br>
 Menerapkan ilmu yang sudah dipelejari dengan membuat real project
 * Membuat real project
+
+**26 Juni 2021**<br>
+Menganalisa setiap bug atau masalah untuk melatih pemecahan masalah
+* Menganalisa setiap masalah yang ada
