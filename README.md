@@ -25,3 +25,7 @@ Menerapkan ilmu yang sudah dipelejari dengan membuat real project
 **26 Juni 2021**<br>
 Menganalisa setiap bug atau masalah untuk melatih pemecahan masalah
 * Menganalisa setiap masalah yang ada
+
+**30 Juni 2021**<br>
+Menyelesaikan project dengan baik
+* Menyelesaikan project
